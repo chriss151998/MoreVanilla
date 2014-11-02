@@ -1,0 +1,9 @@
+#Creativ Tab
+itemGroup.tabMV=More Vanilla
+
+
+#Items
+item.morevanilla:ItemTest.name=Test Item
+
+#Blocks and Tiles
+tile.morevanilla:BlockMagentaLamp.name=Magenta Lamp
