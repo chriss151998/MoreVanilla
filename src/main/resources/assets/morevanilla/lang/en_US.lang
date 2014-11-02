@@ -6,4 +6,15 @@ itemGroup.tabMV=More Vanilla
 item.morevanilla:ItemTest.name=Test Item
 
 #Blocks and Tiles
+tile.morevanilla:BlockWhiteLamp.name=White Lamp
+tile.morevanilla:BlockLightBlueLamp.name=Light Blue Lamp
 tile.morevanilla:BlockMagentaLamp.name=Magenta Lamp
+tile.morevanilla:BlockPinkLamp.name=Pink Lamp
+tile.morevanilla:BlockGrayLamp.name=Gray Lamp
+tile.morevanilla:BlockYellowLamp.name=Yellow Lamp
+tile.morevanilla:BlockPurpleLamp.name=Purple Lamp
+tile.morevanilla:BlockBlueLamp.name=Blue Lamp
+tile.morevanilla:BlockBrownLamp.name=Brown Lamp
+tile.morevanilla:BlockGreenLamp.name=Green Lamp
+tile.morevanilla:BlockRedLamp.name=Red Lamp
+tile.morevanilla:BlockBlackLamp.name=Black Lamp

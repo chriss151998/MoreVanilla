@@ -6,4 +6,5 @@ itemGroup.tabMV=More Vanilla
 item.morevanilla:ItemTest.name=Test Item
 
 #Blocks and Tiles
-tile.morevanilla:BlockMagentaLamp.name=Magenta Lamp
+tile.morevanilla:BlockMagentaLamp.name=Magenta Lampe
+tile.morevanilla:BlockWhiteLamp.name=Weiße Lampe
